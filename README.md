@@ -68,5 +68,6 @@ These settings can be modified directly in the plotting section of the script.
 ### Notes
 
 * Ensure the CitcomS output files are located in the expected directory structure.
+* Run the script part by part to check if there is any error. 
 
 
