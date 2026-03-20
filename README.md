@@ -59,6 +59,7 @@ Visualization parameters can be adjusted depending on your analysis needs:
 * **Velocity vectors** (density, scaling, arrow style)
 * **Plot limits and scaling**
 * **Figure size and resolution**
+* **Text modifications**
 
 These settings can be modified directly in the plotting section of the script.
 
