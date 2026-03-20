@@ -34,6 +34,17 @@ nproc = 64
 
 These parameters allow the script to locate and correctly read the distributed output files.
 
+Check the model path
+
+```python
+t_path = os.path.join(model, model, '0', f't.{i}.0.gz')
+```
+ In your case, it might be 
+
+```python
+t_path = os.path.join(model, '0', f't.{i}.0.gz')
+```
+
 ---
 
 ### Plotting
