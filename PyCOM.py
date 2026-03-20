@@ -12,7 +12,7 @@ import gzip
 import numpy as np
 
 
-model = ''
+model = 'example_model'
 nproc = 96
 
 #define empty list
