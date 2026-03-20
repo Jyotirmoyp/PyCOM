@@ -12,7 +12,7 @@ import gzip
 import numpy as np
 
 
-model = 'SMEAN2_high_vel_removed_0_1_100_129_200_km_craton'
+model = ''
 nproc = 96
 
 #define empty list
