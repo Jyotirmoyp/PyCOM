@@ -68,10 +68,5 @@ These settings can be modified directly in the plotting section of the script.
 ### Notes
 
 * Ensure the CitcomS output files are located in the expected directory structure.
-* Large models may require significant memory during post-processing.
 
----
 
-### Documentation
-
-For additional instructions and examples, refer to the accompanying documentation files included in this repository.
