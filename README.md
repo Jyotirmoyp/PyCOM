@@ -11,8 +11,7 @@ It enables visualization and analysis of model outputs such as scalar fields and
 * Required Python libraries (depending on your implementation), for example:
 
   * `numpy`
-  * `matplotlib`
-  * `pygmt`
+  * `PyGMT`
 
 
 Make sure all required dependencies are installed before running the script.
